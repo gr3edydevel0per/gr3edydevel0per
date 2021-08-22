@@ -25,23 +25,15 @@
  <a href="https://twitter.com/BCoditive" rel="nofollow">
   <img alt="beCoditive's Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;" width="22px" align="left"></a><br><br>
 
-Discord: ``</Max>#5589``
+Discord: ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 
-Email: ``contact@becoditive.xyz``
+Email: ``--`
   
-  
-<br>
+
    
-
-## My Works:
-Max Bot - https://github.com/beCoditive/Max-Bot
-
-random-jokes-api - https://github.com/beCoditive/random-jokes-api
-
-beCoditive API - https://github.com/beCoditive/beCoditive-api
  
 <br>
 
 <p align="left">
-<img alt="MAX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Max2408&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+<img alt="ZEPHYRUS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </p>
