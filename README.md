@@ -7,7 +7,7 @@
 - 🤖 I'm currently working on zrox-api
 - ⚡ I'm Great in Back-End Projects and learning Front-End Also!
 - 🥅 2021 Goals To make as many as possible Open Source projects.
-- 🤖 Some of My Upcoming Projects Are  zrox-pi , justice-bot
+- 🤖 Some of My Upcoming Projects Are  zrox-pi , justice-bot , scrims-manager
 - ⚡ Fun Fact : I Love to Code
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
