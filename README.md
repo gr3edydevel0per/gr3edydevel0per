@@ -13,7 +13,6 @@
 ![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
 
 ### Connect With me: 
- https://www.fiverr.com/share/yE0eQZ
 
 
 
