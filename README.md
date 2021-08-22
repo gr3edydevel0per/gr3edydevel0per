@@ -29,6 +29,8 @@ Email : ``arora.kanav777@gmail.com``
 
  <br>
  <h3 align="left">Stats:</h3>
+ <p>
 [![Kanav Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&count_private=true&show_icons=true&theme=radical)](https://github.com/CYBR-DEMON) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBR-DEMON&langs_count=10&layout=compact)](https://github.com/CYBR-DEMON)
 
 
+</p>
