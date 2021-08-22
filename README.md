@@ -25,11 +25,11 @@ Email: ``arora.kanav777@gmail.com`
  
 <br>
 
-<p align="left">
+
+
 <img alt="ZEPHYRUS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</p>
 
 
-[![TierGamerpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TierGamerpy&count_private=true&show_icons=true&theme=radical)](https://github.com/TierGamerpy) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TierGamerpy&langs_count=10&layout=compact)](https://github.com/TierGamerpy)
+[![TierGamerpy's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&count_private=true&show_icons=true&theme=radical)](https://github.com/CYBR-DEMON) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TierGamerpy&langs_count=10&layout=compact)](https://github.com/TierGamerpy)
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tea-Bot-Development&repo=Tea-Bot&show_owner=True)](https://github.com/Tea-Bot-Development/Tea-Bot)  -->
+
