@@ -16,9 +16,9 @@
 
 
 
-Discord: ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
+Discord : ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 
-Email: ``arora.kanav777@gmail.com`
+Email : ``arora.kanav777@gmail.com``
   
 
    
