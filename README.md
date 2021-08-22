@@ -1,4 +1,4 @@
-### Hi there , I'm Kanav - aka ZEPHRUS
+### Hi there , I'm Kanav - aka ZEPHYRUS
 
 
 
