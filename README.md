@@ -19,8 +19,7 @@
 Email : ``arora.kanav777@gmail.com``
 
 Discord : ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
-
-<br>
+<br><br>
 ![MY Discord Status](https://discord.c99.nl/widget/theme-1/861939702756409344.png)
 
  
