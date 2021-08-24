@@ -11,15 +11,15 @@
 - ⚡ Fun Fact : I Love to Code
 
 
-![MY Discord Status](https://discord.c99.nl/widget/theme-1/861939702756409344.png)
+![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
+
+
 ### Connect With me: 
 
-
+Email : ``arora.kanav777@gmail.com``
 
 Discord : ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
-
-Email : ``arora.kanav777@gmail.com``
-  
+![MY Discord Status](https://discord.c99.nl/widget/theme-1/861939702756409344.png)
 
  
 <br>
@@ -29,7 +29,6 @@ Email : ``arora.kanav777@gmail.com``
 
 
 ### Stats :
-![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
 [![Kanav Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&count_private=true&show_icons=true&theme=radical)](https://github.com/CYBR-DEMON) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBR-DEMON&langs_count=10&layout=compact)](https://github.com/CYBR-DEMON)
 
 
