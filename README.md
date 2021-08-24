@@ -11,7 +11,7 @@
 - ⚡ Fun Fact : I Love to Code
 
 ![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
-
+![MY Discord Status](https://discord.c99.nl/widget/theme-1/861939702756409344.png)
 ### Connect With me: 
 
 
