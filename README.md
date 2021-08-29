@@ -96,7 +96,7 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
   <br/>
 
 <!--START_SECTION:activity-->
- 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+ 🎉 Currently working on a discord bot and zerox-api
 <!--END_SECTION:activity-->
 </details>
 
