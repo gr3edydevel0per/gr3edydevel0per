@@ -43,7 +43,7 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/Symfony-111111.svg?logo=discordy&logoColor=white"></a>
+    <a href="#"><img alt="Discord.py" src="https://img.shields.io/badge/Discord-111111.svg?logo=discordy&logoColor=white"></a>
     <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
