@@ -77,9 +77,32 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 </p>
 
 
+## 📊 Github stats
 
-### Stats :
-[![Kanav Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&count_private=true&show_icons=true&theme=radical)](https://github.com/CYBR-DEMON) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBR-DEMON&langs_count=10&layout=compact)](https://github.com/CYBR-DEMON)
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
 
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+4. 🎉 Merged PR [#115](https://github.com/DenverCoder1/custom-icon-badges/pull/115) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Connect-4-AI/pull/4) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
+<!--END_SECTION:activity-->
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
