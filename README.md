@@ -18,9 +18,13 @@
 
 ### Connect With me: 
 
-Email : ``arora.kanav777@gmail.com``
 <p>
- <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png">: ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``</a> </p>
+ <a href="#" alt="#"><img width="32px" src="https://i.imgur.com/OViZO8J.png"></a>
+</p>
+
+
+Email : ``arora.kanav777@gmail.com``
+Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 
 <br><br>
 ![MY Discord Status](https://discord.c99.nl/widget/theme-1/861939702756409344.png)
