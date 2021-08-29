@@ -76,8 +76,7 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-0078d7.svg?logo=canva&logoColor=white"></a>
 </p>
 
-<b><h3 align="left">Tools and Languages:</h3></b>
-<p align="left"> <a href="https://www.canva.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/Canva_Logo.png" alt="c" width="40" height="40"/> </a> &nbsp;<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="c" width="40" height="40"/> </a> &nbsp;<a href="https://streamlit.io/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrKQrtP51oMG2fIk6eZHLCVu3hzI4kCkuGQ&usqp=CAU" alt="c" width="45" height="40"/> </a><a href="https://replit.com/@MrEdith007" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" alt="codeigniter" width="40" height="40"/> </a><a href="https://signup.heroku.com/login" target="_blank"> <img src="https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-heroku/1.4.3/1563906575407/Microsoft.VisualStudio.Services.Icons.Default" alt="codeigniter" width="40" height="40"/> </a> 
+
 
 ### Stats :
 [![Kanav Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBR-DEMON&count_private=true&show_icons=true&theme=radical)](https://github.com/CYBR-DEMON) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYBR-DEMON&langs_count=10&layout=compact)](https://github.com/CYBR-DEMON)
