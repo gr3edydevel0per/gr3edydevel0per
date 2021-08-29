@@ -92,15 +92,11 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ Recent Work</summary>
   <br/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#50](https://github.com/DenverCoder1/readme-typing-svg/issues/50) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 🎉 Merged PR [#115](https://github.com/DenverCoder1/custom-icon-badges/pull/115) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-5. 🎉 Merged PR [#4](https://github.com/DenverCoder1/Connect-4-AI/pull/4) in [DenverCoder1/Connect-4-AI](https://github.com/DenverCoder1/Connect-4-AI)
+ 🎉 Merged PR [#116](https://github.com/DenverCoder1/custom-icon-badges/pull/116) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 <!--END_SECTION:activity-->
 </details>
 
