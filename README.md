@@ -96,7 +96,7 @@ Discord :  ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
   <br/>
 
 <!--START_SECTION:activity-->
- 🎉 Currently working on a discord bot and zerox-api
+ . 🎉 Currently working on a discord bot and zerox-api
 <!--END_SECTION:activity-->
 </details>
 
