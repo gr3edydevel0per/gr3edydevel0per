@@ -1,7 +1,7 @@
-### Hi there , I'm Kanav - aka ZEPHYRUS
-
-
-
+<h3 align="center">
+  Welcome to Kanav Arora's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ## I'm a Bot Developer and Web Developer
 - 🤖 I'm currently working on zrox-api
