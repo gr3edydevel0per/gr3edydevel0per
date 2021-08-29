@@ -37,7 +37,6 @@ Discord : ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
 ### 🧰 Frameworks and libraries
 
 <p>
-
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
