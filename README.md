@@ -27,7 +27,7 @@ Discord : ``ℤ𝔼ℙℍ𝕐ℝ𝕌𝕊#8931``
  
 <br>
 
-## 🛠️ My favorite tools
+## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming languages
 
