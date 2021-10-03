@@ -101,4 +101,4 @@ Discord :  ``ZEPHYRUS#8931``
 </details>
 
 <!-- https://github.com/CYBR-DEMON/github-readme-activity-graph -->
-<a href="https://github.com/CYBR-DEMON/github-readme-activity-graph"><img alt="ZEPHYRUS's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CYBR-DEMON&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/realkanavarora/github-readme-activity-graph"><img alt="ZEPHYRUS's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=realkanavarora&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
