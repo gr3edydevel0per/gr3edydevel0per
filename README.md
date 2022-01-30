@@ -2,13 +2,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## I'm a Computer Geek
-- 🤖 I'm currently working on z-encryption
-- ⚡ I'm Great in Back-End Projects and learning Front-End Also!
-- 🥅 2021 Goals To make as many as possible Open Source projects.
-- ⚡ Fun Fact : I Love to Code
-
-
 ## My TryHackMe Profile
 
 
