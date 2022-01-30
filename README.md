@@ -17,11 +17,6 @@
 
 ### 📞 Connect With me: 
 
-Email : ``arora.kanav777@gmail.com``
-
-Discord :  ``ZEPHYRUS#8931``
-
-<br>
 
 ![My Profile Views](https://discord.c99.nl/widget/theme-2/861939702756409344.png)
 
