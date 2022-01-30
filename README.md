@@ -9,7 +9,7 @@
 - ⚡ Fun Fact : I Love to Code
 
 
-![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
+## My TryHackMe Profile
 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ALONEPARADOX.png" alt="TryHackMe">
