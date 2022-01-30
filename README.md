@@ -15,10 +15,6 @@
 ![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
 
 
-### 📞 Connect With me: 
-
-
-![My Profile Views](https://discord.c99.nl/widget/theme-2/861939702756409344.png)
 
 
 ## 🛠️ My Favorite Tools
