@@ -12,6 +12,9 @@
 ![My Profile Views](https://komarev.com/ghpvc/?username=CYBR-DEMON)
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/ALONEPARADOX.png" alt="TryHackMe">
+
+
 
 
 ## 🛠️ My Favorite Tools
