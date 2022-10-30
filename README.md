@@ -1,3 +1,21 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kanav+Arora!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<p align="center">
+  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  <br>
+  <br>
+  🎓 Persuing my bachelorsfrom <a href="https://www.upes.ac.in/"> UPES.</a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+</p>
 
 ## 🛠️ My Favorite Tools
 
