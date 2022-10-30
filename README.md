@@ -73,4 +73,11 @@
 alt="snake">
 </div>
 
-[![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;flex-direction:row">
+   <div>
+     [![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</div
+   <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shwetasng&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Shwetasng" width="400"/> </div>
+</div>
+
+
