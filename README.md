@@ -75,9 +75,9 @@ alt="snake">
 
 <div style="display:flex;flex-direction:row">
    <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=radical">
+     <img src="https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=midnight-purple">
    <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realkanavarora&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="realkanavarora" width="400"/> </div>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=realkanavarora&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="realkanavarora" width="400"/> </div>
 </div>
 
 
