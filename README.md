@@ -84,13 +84,4 @@ alt="snake">
 </div>
 <hr>
 
-<h2 align="center"> Github Stats</h2>
-
-<div style="display:flex;flex-direction:row">
-   <div>
-     <img src="https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=midnight-purple">
-   <div>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=realkanavarora&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="realkanavarora" width="400"/> </div>
-</div>
-
 
