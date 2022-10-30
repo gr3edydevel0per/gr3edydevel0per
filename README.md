@@ -7,7 +7,7 @@
 [![Linkedin: kanav](https://img.shields.io/badge/-realkanavarora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realkanavarora/)](https://www.linkedin.com/in/realkanavarora/)
 ![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://realkanav.me/)](https://realkanavarora.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora">
+<img align="right" src="">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -40,7 +40,7 @@
 </h1>
 
 <br>
-<p align="center">
+<p>
   Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
   🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
