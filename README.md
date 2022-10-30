@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Kanav+Arora!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+Myself+Kanav+Arora!;&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
-  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳
+  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
   <br>
   🎓 Persuing my bachelorsfrom <a href="https://www.upes.ac.in/"> UPES.</a>
