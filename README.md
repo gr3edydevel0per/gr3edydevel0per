@@ -7,7 +7,7 @@
 [![Linkedin: kanav](https://img.shields.io/badge/-realkanavarora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realkanavarora/)](https://www.linkedin.com/in/realkanavarora/)
 ![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://realkanav.me/)](https://realkanavarora.me/)
-![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
+
 
 <p>
  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from 🇮🇳
@@ -29,6 +29,7 @@ const kanav = {
     code: ["Javascript", "Python", "C"]
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
+        web: ["HTML" ,"CSS" , "JS"]
         databases: ["mongo", "MySql", "sqlite","PostgreSQL"],
         cloudHosting: ["heroku","github pages","replit]
         misc: ["Isotop-layout", "AOS", "selenium", "open-cv", "tensorflow", "scipy","Slider"]
