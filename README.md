@@ -10,10 +10,11 @@
 <p align="center">
   Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
-  🎓 Persuing my bachelorsfrom <a href="https://www.upes.ac.in/"> UPES.</a>
+  🎓 Persuing my bachelorsfrom <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
+  🧑‍💼 I’m currently a part of *TECHNICAL core committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
 </p>
 
 ## 🛠️ My Favorite Tools
