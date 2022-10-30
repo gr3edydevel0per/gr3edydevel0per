@@ -65,7 +65,7 @@
 </p>
 
 
-
+## Contribution Graph
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
@@ -73,6 +73,7 @@
 alt="snake">
 </div>
 
+## Github Stats
 <div style="display:flex;flex-direction:row">
    <div>
      <img src="https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=midnight-purple">
