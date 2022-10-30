@@ -1,21 +1,57 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora">
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p
+</a>
+</em></p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
-  </a>
-</h1>
+[![Linkedin: kanav](https://img.shields.io/badge/-realkanavarora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realkanavarora/)](https://www.linkedin.com/in/realkanavarora/)
+![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://realkanav.me/)](https://realkanavarora.me/)
+![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
 
-<br>
-<p align="center">
-  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
+<p>
+ Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
   🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently a part of *TECHNICAL core committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
+  🧑‍💼 I’m currently a part of Core Committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
 </p>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const kanav = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C"]
+    askMeAbout: ["web dev", "tech", "AI"],
+    technologies: {
+        databases: ["mongo", "MySql", "sqlite","PostgreSQL"],
+        cloudHosting: ["heroku","github pages","replit]
+        misc: ["Isotop-layout", "AOS", "selenium", "open-cv", "tensorflow", "scipy","Slider"]
+    },
+    currentStatus: "Learning",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
+
+
+
+
+
+
 
 ## 🛠️ My Favorite Tools
 
@@ -64,7 +100,6 @@
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-0078d7.svg?logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-0078d7.svg?logo=AdobePhotoshop&logoColor=white"></a>
 </p>
-
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
