@@ -34,7 +34,7 @@ const kanav = {
         misc: ["Isotop-layout", "AOS", "selenium", "open-cv", "tensorflow", "scipy","Slider"]
     },
     currentStatus: "Learning",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one work"
 };
 ```
 
