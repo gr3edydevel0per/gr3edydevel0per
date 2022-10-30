@@ -77,11 +77,8 @@ C                        1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <img src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
-alt="snake">
-</div>
-<hr>
+##  🐍 Snake eating my contribution 🐍
+
+  <img align="center" src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
 
 
