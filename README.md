@@ -29,6 +29,7 @@ const kanav = {
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
         databases: ["mongo", "MySql", "sqlite"],
+        cloudHosting: ["heroku","github pages","replit]
         misc: ["Isotop-layout", "AOS", "selenium", "open-cv", "tensorflow", "scipy","Slider"]
     },
     currentStatus: "Learning",
