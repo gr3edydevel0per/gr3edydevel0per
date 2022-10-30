@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: realkanavarora](https://img.shields.io/badge/-kanav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realkanavarora/)](https://www.linkedin.com/in/realkanavarora/)
+[![Linkedin: kanav](https://img.shields.io/badge/-realkanavarora-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realkanavarora/)](https://www.linkedin.com/in/realkanavarora/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
