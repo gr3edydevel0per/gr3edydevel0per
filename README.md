@@ -8,7 +8,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/realkanavarora?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://realkanav.me/)](https://realkanavarora.me/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p>
  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
