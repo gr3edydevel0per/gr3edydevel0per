@@ -79,6 +79,6 @@ C                        1 repo              ██░░░░░░░░░�
 ---
 ##  🐍 Snake eating my contribution 🐍
 
-  <img align="center" src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
+  <img align="center" src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg">
 
 
