@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,6 +10,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
   </a>
 </h1>
+
+<br>
 <p align="center">
   Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
@@ -64,7 +69,6 @@
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-0078d7.svg?logo=canva&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-0078d7.svg?logo=AdobePhotoshop&logoColor=white"></a>
 </p>
-
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
