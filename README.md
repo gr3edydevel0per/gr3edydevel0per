@@ -65,7 +65,7 @@
 </p>
 
 
-## Contribution Graph
+
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
