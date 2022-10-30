@@ -10,7 +10,7 @@
 
 
 <p>
- Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from 🇮🇳
+ I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from 🇮🇳
   <br><br>
   🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
