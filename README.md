@@ -67,7 +67,8 @@
 
 ## Contribution Graph
 
-<p align="left">
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
   <img src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
-alt="snake"></center>
-</p>
+alt="snake">
+</div>
