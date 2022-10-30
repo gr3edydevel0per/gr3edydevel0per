@@ -41,7 +41,7 @@ const anmol = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building Robots to ease opertations",
     funFact: "There are two ways to write error-free programs; only the third one works"
-};
+};```
 
 
 
