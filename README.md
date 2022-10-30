@@ -73,4 +73,4 @@
 alt="snake">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkanavarora)](https://github.com/anuraghazra/github-readme-stats)
+[![Kanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkanavarora&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
