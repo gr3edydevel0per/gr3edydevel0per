@@ -72,3 +72,5 @@
   <img src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
 alt="snake">
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkanavarora)](https://github.com/anuraghazra/github-readme-stats)
