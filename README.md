@@ -10,7 +10,6 @@
 <p align="center">
   Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
-  <br>
   🎓 Persuing my bachelorsfrom <a href="https://www.upes.ac.in/"> UPES.</a>
   <br>
   💻 I love to learn new technologies and frameworks.
