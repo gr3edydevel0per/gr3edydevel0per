@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello 🙏🏻, I'm Kanav Arora! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -11,7 +11,7 @@
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 <p>
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
+ Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
   <br>
   🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
