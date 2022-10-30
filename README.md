@@ -65,14 +65,12 @@
 </p>
 
 
-## Contribution Graph
-
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <img src="https://github.com/realkanavarora/realkanavarora/raw/output/github-contribution-grid-snake.svg"
 alt="snake">
 </div>
-
+<hr>
 ## Github Stats
 <div style="display:flex;flex-direction:row">
    <div>
