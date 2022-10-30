@@ -10,7 +10,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
 
 <p>
- Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
+ Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from 🇮🇳
   <br>
   🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
   <br>
