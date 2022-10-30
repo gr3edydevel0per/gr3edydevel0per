@@ -19,27 +19,6 @@
   🧑‍💼 I’m currently a part of *TECHNICAL core committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
 </p>
 
-
-
-
-
-
-
-
-
-
-<img align="right" src="">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;&center=true&size=30">
-  </a>
-</h1>
-
-<br>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming languages
