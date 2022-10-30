@@ -72,7 +72,7 @@ alt="snake">
 </div>
 <hr>
 
-## Github Stats
+<h2 align="center"> Github Stats</h2>
 
 <div style="display:flex;flex-direction:row">
    <div>
