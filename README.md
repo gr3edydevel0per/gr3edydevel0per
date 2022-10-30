@@ -10,6 +10,15 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=realkanavarora.realkanavarora)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
+<p>
+  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
+  <br>
+  🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
+  <br>
+  💻 I love to learn new technologies and frameworks.
+  <br>
+  🧑‍💼 I’m currently a part of *TECHNICAL core committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
+</p>
 
 
 
@@ -20,13 +29,7 @@
 
 
 
-
-
-
-
-==========================================================================================================================================================
-
-<p align="center">
+<p>
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <img align="right" src="">
@@ -40,15 +43,6 @@
 </h1>
 
 <br>
-<p>
-  Hi, I'm Kanav Arora, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gamer 🦸‍♂️ from India 🇮🇳
-  <br>
-  🎓 Persuing my bachelors from <a href="https://www.upes.ac.in/" > UPES.</a>
-  <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
-  🧑‍💼 I’m currently a part of *TECHNICAL core committee* at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
-</p>
 
 ## 🛠️ My Favorite Tools
 
