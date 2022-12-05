@@ -43,42 +43,6 @@ const kanav = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 271 Contributions in the Year 2022
- > 
-> 📦 348.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-
- Last Updated on 30/10/2022 10:24:29 UTC
- 
- 
-<!--END_SECTION:waka-->
 
 ---
 ##  🐍 Snake eating my contribution 🐍
