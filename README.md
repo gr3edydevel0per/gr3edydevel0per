@@ -27,7 +27,7 @@
 ```javascript
 const kanav = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C"]
+    code: ["Javascript", "Python", "C", "C++"]
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
         web: ["HTML" ,"CSS" , "JS"]
