@@ -32,7 +32,7 @@ const kanav = {
     askMeAbout: ["web dev", "tech", "AI"],
     technologies: {
         web: ["HTML" ,"CSS" , "JS"]
-        databases: ["MySql", "sqlite","PostgreSQL"],
+        databases: ["MySql"],
         cloudHosting: ["heroku","github pages","replit],
         misc: ["Isotop-layout", "AOS", "selenium", "open-cv", "tensorflow", "scipy","Slider"]
     },
