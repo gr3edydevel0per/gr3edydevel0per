@@ -18,7 +18,7 @@
   <br>
   💻 I love to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently a part of Technical Team at  <a href="https://upescsa.in/" style="text-decoration:none">UPES-Cloud Security Alliance Student Chapter</a>
+ 
 </p>
 
 <br>
