@@ -45,6 +45,23 @@ const kanav = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+<h2><img width="30" align="center"
+                src="https://repository-images.githubusercontent.com/541499717/0f95061a-8b05-4f62-b8a6-e417dc20b283" /> &nbsp;hacktoberfest 
+        </h2>
+    <p align='center'>
+      <img width="200" align="center"
+                src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" />
+      <img width="200" align="center"
+                src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" />
+      <img width="200" align="center"
+                src="https://assets.holopin.io/hf2023levels/level0-red-0-0-0.webp" />
+      <img width="200" align="center"
+                src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" />
+  <br/>
+ 
+  
+</p>
+ 
 
 
 
