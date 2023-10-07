@@ -47,7 +47,7 @@ const kanav = {
 
 <h2><img width="30" align="center"
                 src="https://repository-images.githubusercontent.com/541499717/0f95061a-8b05-4f62-b8a6-e417dc20b283" /> &nbsp;hacktoberfest </h2>
-[![An image of @realkanavarora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realkanavarora)](https://holopin.io/@realkanavarora)
+![An image of @realkanavarora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realkanavarora)](https://holopin.io/@realkanavarora)
 
 
 
