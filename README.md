@@ -1,3 +1,3 @@
 <img src="https://raw.githubusercontent.com/realkanavarora/realkanavarora/master/assets/gr3edydevel0per.png">
 
-<script src="https://tryhackme.com/badge/974182"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/gr3edydevel0per.png" alt="TryHackMe">
