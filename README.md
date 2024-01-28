@@ -18,12 +18,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gr3edydevel0per/gr3edydevel0per/output/snake.svg" alt="Snake animation" />
-
-###
-
  <a href="https://tryhackme.com/p/gr3edydevel0per"><img src="https://tryhackme-badges.s3.amazonaws.com/gr3edydevel0per.png" alt="TryHackMe"></a>
