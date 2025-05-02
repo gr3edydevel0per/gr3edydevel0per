@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Kanav Arora</h1>
 
 
-- 🔭 I’m currently working on **Zero Trust Security Model**
+- 🔭 I’m currently working on **Zero Trust Security Framework**
 
-- 🤝 I’m looking for help with **SD-Networking,**
+- 🤝 I’m looking for help with **Software Defined-Networking, Zero-Trust Framework**
 
 - 💬 Ask me about **cyber security, networking**
 
