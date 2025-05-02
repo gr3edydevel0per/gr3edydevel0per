@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Kanav Arora</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr3edydevel0per" alt="gr3edydevel0per" /></a> </p>
+
 
 - 🔭 I’m currently working on **Zero Trust Security Model**
 
