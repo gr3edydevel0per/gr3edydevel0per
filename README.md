@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Zero Trust Security Model**
 
-- 🤝 I’m looking for help with **SD-Networking,**
+- 🤝 I’m looking for help with **SD-Networking, ZT-VPN**
 
 - 💬 Ask me about **cyber security, networking**
 
