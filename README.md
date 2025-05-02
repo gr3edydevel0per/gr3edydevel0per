@@ -20,4 +20,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gr3edydevel0per&show_icons=true&locale=en" alt="gr3edydevel0per" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr3edydevel0per&" alt="gr3edydevel0per" /></p>
+
+![Metrics](https://metrics.lecoq.io/gr3edydevel0per?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
