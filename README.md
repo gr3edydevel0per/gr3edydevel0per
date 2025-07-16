@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Software Defined-Networking, Zero-Trust Framework**
 
-- 💬 Ask me about **cyber security, networking**
+- 💬 Ask me about **cyber security, networking, infrastructure security**
 
 - 📫 How to reach me **realkanavarora@gmail.com**
 
